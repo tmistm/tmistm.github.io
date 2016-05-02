@@ -6,18 +6,8 @@
     <description>Recent content on tmistm&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 May 2016 07:39:01 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 May 2016 07:34:48 +0900</lastBuildDate>
     <atom:link href="http://tmistm.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>abc..</title>
-      <link>http://tmistm.github.io/abc...xyz/</link>
-      <pubDate>Tue, 03 May 2016 07:39:01 +0900</pubDate>
-      
-      <guid>http://tmistm.github.io/abc...xyz/</guid>
-      <description>&lt;p&gt;testing???&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>日本語テスト</title>
@@ -25,11 +15,7 @@
       <pubDate>Tue, 03 May 2016 07:34:48 +0900</pubDate>
       
       <guid>http://tmistm.github.io/japanese-test/</guid>
-      <description>
-
-&lt;h1 id=&#34;日本語のテスト:f220ecb9fce25ca178a39fe745eff2d4&#34;&gt;日本語のテスト&lt;/h1&gt;
-
-&lt;p&gt;東京は晴れ。&lt;/p&gt;
+      <description>&lt;p&gt;東京は晴れ。&lt;/p&gt;
 </description>
     </item>
     
@@ -39,11 +25,7 @@
       <pubDate>Tue, 03 May 2016 07:26:53 +0900</pubDate>
       
       <guid>http://tmistm.github.io/hello-austin/</guid>
-      <description>
-
-&lt;h1 id=&#34;this-is-first-page-test:1ce4e364f8bfdce3cbc232fd03a004e4&#34;&gt;This is first page test&lt;/h1&gt;
-
-&lt;p&gt;Hello, Austin! It&amp;rsquo;s very good place.&lt;/p&gt;
+      <description>&lt;p&gt;Hello, Austin! It&amp;rsquo;s very good place.&lt;/p&gt;
 </description>
     </item>
     
