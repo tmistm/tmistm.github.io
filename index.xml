@@ -6,8 +6,22 @@
     <description>Recent content on tmistm&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 May 2016 07:26:53 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 May 2016 07:34:48 +0900</lastBuildDate>
     <atom:link href="http://tmistm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>日本語テスト</title>
+      <link>http://tmistm.github.io/japanese-test/</link>
+      <pubDate>Tue, 03 May 2016 07:34:48 +0900</pubDate>
+      
+      <guid>http://tmistm.github.io/japanese-test/</guid>
+      <description>
+
+&lt;h1 id=&#34;日本語のテスト:f220ecb9fce25ca178a39fe745eff2d4&#34;&gt;日本語のテスト&lt;/h1&gt;
+
+&lt;p&gt;東京は晴れ。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>hello austin</title>
