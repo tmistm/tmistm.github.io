@@ -6,8 +6,22 @@
     <description>Recent content on tmistm&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 May 2016 06:55:51 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 May 2016 07:13:28 +0900</lastBuildDate>
     <atom:link href="http://tmistm.github.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hello world</title>
+      <link>http://tmistm.github.com/hello-world/</link>
+      <pubDate>Tue, 03 May 2016 07:13:28 +0900</pubDate>
+      
+      <guid>http://tmistm.github.com/hello-world/</guid>
+      <description>
+
+&lt;h1 id=&#34;test:aa77bbfd89a7b0ff10def205b9c08d51&#34;&gt;test&lt;/h1&gt;
+
+&lt;p&gt;hello-world&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>test</title>
