@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://tmistm.github.io/</loc>
-    <lastmod>2016-05-03T07:34:48+09:00</lastmod>
+    <lastmod>2016-05-03T07:39:01+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tmistm.github.io/abc...xyz/</loc>
+    <lastmod>2016-05-03T07:39:01+09:00</lastmod>
   </url>
   
   <url>
