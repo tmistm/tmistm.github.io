@@ -16,6 +16,11 @@
       
       <guid>http://tmistm.github.io/japanese-test/</guid>
       <description>&lt;p&gt;東京は晴れ。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;print (&amp;quot;It&#39;s sunny in tokyo&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog-imgs-89.fc2.com/s/a/b/sabo34/blog-R8-1.jpg&#34;&gt;tokyo&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
