@@ -10,16 +10,16 @@
     <atom:link href="http://tmistm.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>hello paris</title>
+      <title>hello austin</title>
       <link>http://tmistm.github.io/hello-paris/</link>
       <pubDate>Tue, 03 May 2016 07:26:53 +0900</pubDate>
       
       <guid>http://tmistm.github.io/hello-paris/</guid>
       <description>
 
-&lt;h1 id=&#34;this-is-first-page:74302ebde02b573a3cfc045835ada6a3&#34;&gt;this is first page&lt;/h1&gt;
+&lt;h1 id=&#34;this-is-first-page-test:74302ebde02b573a3cfc045835ada6a3&#34;&gt;This is first page test&lt;/h1&gt;
 
-&lt;p&gt;Hi, hello paris!&lt;/p&gt;
+&lt;p&gt;Hello, Austin! It&amp;rsquo;s very good place.&lt;/p&gt;
 </description>
     </item>
     
